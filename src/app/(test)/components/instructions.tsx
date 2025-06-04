@@ -279,7 +279,7 @@ const Instructions = ({ testId }: { testId: string }) => {
           <Button
             variant={'trident'}
             // disabled={agreed}
-            onClick={() => router.push('/dashboard')}
+            onClick={() => router.push('/Chirantan')}
             className="bg-purple-700 hover:bg-purple-800 text-white px-8 py-3 text-lg rounded-lg"
           >
             Back
